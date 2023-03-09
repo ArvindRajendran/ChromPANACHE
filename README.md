@@ -25,7 +25,7 @@ git clone https://github.com/ArvindRajendran/ChromPANACHE.git
 2. Run TrainPANACHE.py (with train_chrom.mat in the same directory) in Python notebook 3.
 3. Save the weights and biases of the trained model for subsequent use in model predictions. 
 
-## CITATION
+## CITATIONS
 ```
 @article{Subraveti2023,
 title = {Can a computer "learn" nonlinear chromatography?: Experimental validation of physics-based deep neural networks for  the simulation of chromatographic processes},
@@ -34,9 +34,19 @@ journal = {ChemRxiv preprint},
 year = {2023},
 }
 ```
+```
+@article{Subraveti2022,
+title = {Can a computer “learn” nonlinear chromatography?: Physics-based deep neural networks for simulation and optimization of chromatographic processes},
+journal = {J. Chromatogr. A},
+volume = {1672},
+pages = {463037},
+year = {2022},
+author = {Sai Gokul Subraveti and Zukui Li and Vinay Prasad and Arvind Rajendran},
+}
+```
 
 ## AUTHORS 
-###Maintainers of the repository 
+### Maintainers of the repository 
 - Sai Gokul Subraveti (subravet@ualberta.ca)
 
 ### Project Contributors 
